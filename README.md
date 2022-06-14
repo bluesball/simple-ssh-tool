@@ -16,7 +16,7 @@ Edite os arquivos conforme necessidade e salve
 
 Para criar uma chave SSH segura execute o comando substituindo o e-mail
 
-```ssh-keygen -t ed25519 -C "fulano2ueg.br" ```
+```ssh-keygen -t ed25519 -C "fulano2email.com.br" ```
 
 Escolha uma senha e prossiga 
 
