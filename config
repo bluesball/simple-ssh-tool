@@ -1,0 +1,13 @@
+## Adicionar as entradas dos servidores
+Host ApelidoParaOServidor
+    HostName        IP
+    User            Usuario
+    Port            portadeconexão
+    IdentityFile    /caminho/para/a/chave/privada
+
+
+Host ApelidoParaOServidor
+    HostName        IP
+    User            Usuario
+    Port            portadeconexão
+    IdentityFile    /caminho/para/a/chave/privada
