@@ -1,4 +1,5 @@
 # ssh-tools
+##### - Versao em python esta em desenvolvimento -
 
 Quando vc precisa fazer ssh em vários servidores durante o dia e a memoria falha em saber quem é quem...
 Resolvi essa situação uns anos atrás com um script bem básico mas que sempre salva.
@@ -23,3 +24,4 @@ Escolha uma senha e prossiga
 Copie a chave ssh para o servidor desejado com o comando:
 
 ``` ssh-copy-id -i /caminho/para/a/chave  usuario@ipdoservidor ```
+
